@@ -1505,10 +1505,10 @@ h1 {
   font-size: 5rem; }
 
 h2 {
-  font-size: 3rem; }
+  font-size: 4rem; }
 
 h3 {
-  font-size: 2rem; }
+  font-size: 3rem; }
 
 h4 {
   font-size: 3rem; }
@@ -1896,7 +1896,7 @@ form textarea {
   display: block;
   padding: 0.5rem; }
 form select {
-  border: 1px solid #fbdbdb;
+  border: 1px solid #c7cbba;
   padding: 0.5rem;
   display: block; }
 
@@ -1913,12 +1913,12 @@ form select {
   .contact-form input[type="submit"] {
     font-size: 1.5rem;
     padding: 1rem;
-    border: 1px solid #fbdbdb;
+    border: 1px solid #c7cbba;
     color: black; }
     .contact-form input[type="submit"]:hover {
       background: #fff;
-      color: #fbdbdb;
-      border: 1px solid #fbdbdb; }
+      color: #c7cbba;
+      border: 1px solid #c7cbba; }
 
 .contact {
   font-size: 24px;
@@ -2063,3 +2063,19 @@ form select {
     background-size: 100% 40%;
     text-decoration: none;
     color: #000; }
+
+.block-title {
+  text-align: left; }
+
+.categories {
+  width: 75%;
+  margin: 0 auto;
+  display: block; }
+
+.category-block {
+  margin: 3rem; }
+
+.spacer {
+  padding-top: 20rem;
+  background-color: #e8e8e8;
+  margin: 6rem 0; }
