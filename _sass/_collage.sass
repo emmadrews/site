@@ -7,7 +7,7 @@
   //     position: absolute
   //     width: 80%
   //     height: 80%
-  //     background: $brand
+  //     background: $pink
   //     z-index: -1
 
 .relative
@@ -19,17 +19,18 @@
 .quarter-image
   width: 25%
 
-.half-image
+.collage-sm
   width: 50%
+  filter: drop-shadow(0 2px 7px #a1a1a1)
 
-.three-fourth-image
-  width: 75%
+.collage-lg
+  width: 85%
 
 .full-image
   width: 100%
 
-.collage-block
-  padding: 3rem
+// .collage-block
+//   padding: 3rem
 
 .pin-b
   bottom: 0
@@ -38,7 +39,7 @@
   right: 0
 
 .pin-t
-  top: 10rem
+  top: 8rem
 
 .pin-l
   left: 0
@@ -48,8 +49,17 @@
   position: absolute
   width: 70%
   height: 70%
-  background: $brand
+  background: $pink
   z-index: -1
+
+.collage-block:hover .green-square
+  display: block
+  position: absolute
+  width: 70%
+  height: 70%
+  background: $green
+  z-index: -1
+
 
 
 .underline-magical

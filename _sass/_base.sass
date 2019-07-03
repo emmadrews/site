@@ -11,7 +11,7 @@ html
 
 ::selection
   text-shadow: none
-  background: $brand
+  background: $pink
   color: $light-text
 
 .site-logo, h1.site-title
@@ -67,15 +67,15 @@ html
 //
 // //Pseudo ::scrollbar-button element
 // ::-webkit-scrollbar-button
-//   background: $brand
+//   background: $pink
 //
 // //Pseudo ::scrollbar-corner element
 // ::-webkit-scrollbar-corner
-//   background: $brand
+//   background: $pink
 //
 // //Pseudo ::scrollbar-thumb element
 // ::-webkit-scrollbar-thumb
-//   background: $brand
+//   background: $pink
 //
 // //Pseudo ::scrollbar-track element
 // ::-webkit-scrollbar-track
@@ -98,9 +98,9 @@ h1
   font-size: 5rem
 
 h2
-  font-size: 4.2rem
+  font-size: 3rem
 h3
-  font-size: 3.6rem
+  font-size: 2rem
 h4
   font-size: 3rem
 h5
@@ -120,7 +120,7 @@ h6
   margin: 0 auto
 
 a
-  color: $theme
+  color: black
   text-decoration: none
   text-transform: uppercase
   letter-spacing: 5px
@@ -129,11 +129,13 @@ a
   transition: background-size 0.25s ease-in
   &:hover
     background-size: 100% 40%
+    text-decoration: none
+    color: black
 
   // &:hover
   //   text-decoration: none
   //   font-weight: bold
-  //   color: $brand
+  //   color: $pink
   //   cursor: crosshair
   // &:visited
   //   text-decoration: none
@@ -141,13 +143,13 @@ a
 //Buttons
 .button, button, input[type="button"],input[type="submit"]
   color: $light-text
-  background: $brand
+  background: $pink
   padding: 1rem 2rem
-  border: 1px solid $brand
+  border: 1px solid $pink
   border-radius: 0px
   &:hover
-    background: $brand-light
-    border: 1px solid $brand
+    background: $pink-light
+    border: 1px solid $pink
     color: $light-text
   &:visited
     color: $light-text
@@ -160,14 +162,14 @@ a
   &:hover
     background: rgba(255,255,255,0.7)
     border: 1px solid $light-text
-    color: $brand
+    color: $pink
 
 .button-ghost.brand
-  border-color: $brand
-  color: $brand
+  border-color: $pink
+  color: $pink
   &:hover
-    border-color: $brand-light
-    color: $brand-light
+    border-color: $pink-light
+    color: $pink-light
 
 table
   tr, td
