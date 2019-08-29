@@ -81,6 +81,9 @@ html
 // ::-webkit-scrollbar-track
 //   background: $footer-background
 
+.row
+  margin: 0
+
 body
   font-family: $bodyfont
   color: $theme-body-text
@@ -190,6 +193,33 @@ table
   overflow: hidden
   clip: rect(0,0,0,0)
   border: 0
+
+.zoom figure
+  background: $grey
+
+.zoom figure img
+  -webkit-transform: scale(1)
+  transform: scale(1)
+  -webkit-transition: .3s ease-in-out
+  transition: .3s ease-in-out
+  // opacity: .25
+
+.zoom figure img:hover
+  -webkit-transform: scale(1.1)
+  transform: scale(1.1)
+  // opacity: 1
+
+figure
+  width: 100%
+  height: 100%
+  margin: 0
+  padding: 0
+  background: #fff
+  overflow: hidden
+
+figure:hover+span
+  bottom: -36px
+  opacity: 1
 
 
 

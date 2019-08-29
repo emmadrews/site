@@ -1487,6 +1487,9 @@ html {
     -webkit-transform: scale(1);
     -ms-transform: scale(1);
     opacity: 1; } }
+.row {
+  margin: 0; }
+
 body {
   font-family: "Source Sans Pro", helvetica, arial, sans-serif;
   color: #353535;
@@ -1589,6 +1592,31 @@ table tr, table td {
   overflow: hidden;
   clip: rect(0, 0, 0, 0);
   border: 0; }
+
+.zoom figure {
+  background: #e8e8e8; }
+
+.zoom figure img {
+  -webkit-transform: scale(1);
+  transform: scale(1);
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out; }
+
+.zoom figure img:hover {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1); }
+
+figure {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  overflow: hidden; }
+
+figure:hover + span {
+  bottom: -36px;
+  opacity: 1; }
 
 .warning {
   padding-top: 10rem;
@@ -1913,7 +1941,8 @@ form select {
   .contact-form input[type="submit"] {
     font-size: 1.5rem;
     padding: 1rem;
-    border: 1px solid #c7cbba;
+    border: 1px solid #fbdbdb;
+    border-radius: 5px;
     color: black; }
     .contact-form input[type="submit"]:hover {
       background: #fff;
@@ -2071,9 +2100,6 @@ form select {
   width: 75%;
   margin: 0 auto;
   display: block; }
-
-.category-block {
-  margin: 3rem; }
 
 .spacer {
   padding-top: 20rem;
