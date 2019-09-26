@@ -1528,6 +1528,9 @@ h6 {
 .center {
   text-align: center; }
 
+.right {
+  text-align: right; }
+
 .container {
   width: 100%;
   max-width: 120rem;
@@ -2026,7 +2029,7 @@ form select {
 
 .offset-para {
   margin: 3rem 0;
-  font-size: 18px;
+  font-size: 17px;
   text-align: left; }
 
 .offset-photo {
@@ -2170,6 +2173,10 @@ form select {
   background: #c7cbba;
   z-index: -1; }
 
+.category-block {
+  padding-left: 15px;
+  padding-right: 15px; }
+
 .underline-magical {
   color: #000;
   margin-top: 7rem;
@@ -2196,3 +2203,11 @@ form select {
   padding-top: 20rem;
   background-color: #e8e8e8;
   margin: 6rem 0; }
+
+.right-border {
+  border-right: 1px solid #353535; }
+
+.carousel-para {
+  margin: 3rem 8rem;
+  font-size: 17px;
+  text-align: justify; }

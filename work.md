@@ -1,5 +1,5 @@
 ---
-layout: 3photo
+layout: carousel
 title: Work | Emma Drews
 permalink: /work/
 ---
