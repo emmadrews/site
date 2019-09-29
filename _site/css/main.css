@@ -2159,7 +2159,8 @@ form select {
   text-align: center;
   background: 0 100% no-repeat linear-gradient(180deg, #fbdb56 50%, #fbdb56 50%);
   background-size: 0 40%;
-  transition: background-size 0.25s ease-in; }
+  transition: background-size 0.25s ease-in;
+  font-size: 18px; }
   .underline-magical:hover {
     background-size: 100% 40%;
     text-decoration: none;
@@ -2251,3 +2252,25 @@ form select {
 
 .collage-side {
   width: 100%; }
+
+.journal {
+  width: 100%;
+  margin: 0 0 2rem 0; }
+
+.scrap-title {
+  font-family: "cooper-black-std", serif;
+  text-transform: none;
+  color: #231F20;
+  letter-spacing: 2px;
+  line-height: 3.5rem; }
+
+.scraps {
+  justify-content: space-around;
+  align-items: flex-start; }
+
+.scrap-text {
+  margin-left: 2rem;
+  position: fixed;
+  width: 20%; }
+  .scrap-text p {
+    font-size: 16px; }
