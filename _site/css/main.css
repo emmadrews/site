@@ -381,7 +381,7 @@ th {
 * 12/29/2014
 */
 /* Table of contents
-╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤
+––––––––––––––––––––––––––––––––––––––––––––––––––
 - Grid
 - Base Styles
 - Typography
@@ -397,7 +397,7 @@ th {
 - Media Queries
 */
 /* Grid
-╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {
   position: relative;
   width: 100%;
@@ -534,7 +534,7 @@ th {
   .offset-by-one-half.columns {
     margin-left: 52%; } }
 /* Base Styles
-╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 /* NOTE
 html is set to 62.5% so that all the REM measurements throughout Skeleton
 are based on 10px sizing. So basically 1.5rem = 15px :) */
@@ -549,7 +549,7 @@ body {
   color: #222; }
 
 /* Typography
-╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 h1,
 h2,
 h3,
@@ -613,7 +613,7 @@ p {
   margin-top: 0; }
 
 /* Buttons
-╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 .button, .button-ghost,
 button,
 input[type="button"],
@@ -672,7 +672,7 @@ input[type="submit"].button-primary:hover {
   background-color: #1EAEDB; }
 
 /* Forms
-╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 input[type="email"],
 input[type="number"],
 input[type="password"],
@@ -741,7 +741,7 @@ label > .label-body {
   font-weight: normal; }
 
 /* Lists
-╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 ul {
   list-style: circle inside; }
 
@@ -764,7 +764,7 @@ li {
   margin-bottom: 1rem; }
 
 /* Code
-╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 code {
   padding: 0.2rem 0.5rem;
   margin: 0 0.2rem;
@@ -780,7 +780,7 @@ pre > code {
   white-space: pre; }
 
 /* Tables
-╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 td,
 th {
   padding: 12px 15px;
@@ -796,7 +796,7 @@ th:last-child {
   padding-right: 0; }
 
 /* Spacing
-╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 .button, .button-ghost,
 button {
   margin-bottom: 1rem; }
@@ -819,7 +819,7 @@ ul {
   margin-bottom: 2.5rem; }
 
 /* Utilities
-╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 .u-full-width {
   width: 100%;
   box-sizing: border-box; }
@@ -835,7 +835,7 @@ ul {
   float: left; }
 
 /* Misc
-╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 hr {
   margin-top: 3rem;
   margin-bottom: 3.5rem;
@@ -843,7 +843,7 @@ hr {
   border-top: 1px solid #E1E1E1; }
 
 /* Clearing
-╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 /* Self Clearing Goodness */
 .container:after,
 .row:after,
@@ -853,7 +853,7 @@ hr {
   clear: both; }
 
 /* Media Queries
-╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 /*
 Note: The best way to structure the use of media queries is to create the queries
 near the relevant code. For example, if you wanted to change the styles for buttons
@@ -957,7 +957,6 @@ html[xmlns] .flexslider .slides {
 
 .flex-viewport {
   max-height: 2000px;
-  -webkit-transition: all 1s ease;
   transition: all 1s ease; }
 
 .loading .flex-viewport {
@@ -983,7 +982,6 @@ html[xmlns] .flexslider .slides {
   cursor: pointer;
   color: #fbdbdb;
   text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.3);
-  -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out; }
 
 .flex-direction-nav a:before {
@@ -1097,7 +1095,6 @@ html[xmlns] .flexslider .slides {
   opacity: 0.7;
   cursor: pointer;
   -moz-user-select: none;
-  -webkit-transition: all 1s ease;
   transition: all 1s ease; }
 
 .flex-control-thumbs img:hover {
@@ -1149,7 +1146,6 @@ html[xmlns] .flexslider .slides {
   width: 100%; }
 
 .owl-carousel .owl-wrapper-outer.autoHeight {
-  -webkit-transition: height 500ms ease-in-out;
   transition: height 500ms ease-in-out; }
 
 .owl-carousel .owl-item {
@@ -1164,7 +1160,7 @@ html[xmlns] .flexslider .slides {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  -webkit-tap-highlight-color: transparent; }
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
 
 /* mouse grab icon */
 .grabbing {
@@ -1198,7 +1194,6 @@ html[xmlns] .flexslider .slides {
 .navbar-nav > li {
   margin-right: 10px;
   margin-bottom: 0px;
-  -webkit-transition: all 0.15s ease-out 0s;
   transition: all 0.15s ease-out 0s; }
 
 .nav-logo {
@@ -1219,10 +1214,8 @@ html[xmlns] .flexslider .slides {
   margin: 2rem;
   color: #000;
   text-align: center;
-  background: 0 100% no-repeat -webkit-linear-gradient(top, #fbdb56 50%, #fbdb56 50%);
   background: 0 100% no-repeat linear-gradient(180deg, #fbdb56 50%, #fbdb56 50%);
   background-size: 0 40%;
-  -webkit-transition: background-size 0.25s ease-in;
   transition: background-size 0.25s ease-in; }
   .navbar-nav > li > a:hover {
     background-size: 100% 40%;
@@ -1319,7 +1312,8 @@ html[xmlns] .flexslider .slides {
   font-size: 90px;
   line-height: 95px;
   text-transform: lowercase;
-  letter-spacing: normal; }
+  letter-spacing: normal;
+  color: black; }
 
 .headshot {
   max-width: 300px;
@@ -1541,10 +1535,8 @@ a {
   text-decoration: none;
   text-transform: uppercase;
   letter-spacing: 5px;
-  background: 0 100% no-repeat -webkit-linear-gradient(top, #fbdb56 50%, #fbdb56 50%);
   background: 0 100% no-repeat linear-gradient(180deg, #fbdb56 50%, #fbdb56 50%);
   background-size: 0 40%;
-  -webkit-transition: background-size 0.25s ease-in;
   transition: background-size 0.25s ease-in; }
   a:hover {
     background-size: 100% 40%;
@@ -1600,13 +1592,10 @@ table tr, table td {
   background: #e8e8e8; }
 
 .zoom figure img {
-  -webkit-transform: scale(1);
   transform: scale(1);
-  -webkit-transition: 0.3s ease-in-out;
   transition: 0.3s ease-in-out; }
 
 .zoom figure img:hover {
-  -webkit-transform: scale(1.1);
   transform: scale(1.1); }
 
 figure {
@@ -1642,20 +1631,16 @@ figure:hover + span {
     height: 3.5rem;
     width: 3.5rem;
     border-radius: 50%;
-    -webkit-transition: all 0.15s ease-out 0s;
     transition: all 0.15s ease-out 0s; }
     .socials svg:hover {
       fill: white;
       background: transparent;
       color: white;
       box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
-      -webkit-transform: scale(1.05);
       transform: scale(1.05);
-      -webkit-transform: translateY(-0.2rem);
       transform: translateY(-0.2rem); }
     .socials svg:active {
       box-shadow: 0 0 0 white;
-      -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
 
 .about .socials {
@@ -1682,8 +1667,6 @@ figure:hover + span {
     width: 3rem;
     border-radius: 50%;
     fill: #fbdbdb;
-    -webkit-transition: 1s cubic-bezier(0.4, 0, 0.2, 1);
-    -webkit-transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
     .footer-socials .socials svg:hover {
       fill: white;
@@ -1778,7 +1761,6 @@ figure:hover + span {
     padding: 2.4rem;
     display: inline-block;
     margin-right: 1rem;
-    -webkit-transition: 0.3s;
     transition: 0.3s; }
     .search-box .search-input::-webkit-input-placeholder {
       color: #c7c7c7; }
@@ -1791,7 +1773,6 @@ figure:hover + span {
     .search-box .search-input:focus {
       background: white;
       color: #fbdbdb;
-      -webkit-transform: translateY(-0.2rem);
       transform: translateY(-0.2rem); }
   .search-box .search-submit {
     background: #fbdbdb;
@@ -1802,7 +1783,6 @@ figure:hover + span {
     border-radius: 0px;
     font-weight: 300;
     border: 1px solid #fbdbdb;
-    -webkit-transition: 0.3s;
     transition: 0.3s; }
     .search-box .search-submit:hover {
       background: #fff;
@@ -1810,7 +1790,6 @@ figure:hover + span {
       border: 1px solid #fbdbdb; }
     .search-box .search-submit:active {
       box-shadow: 0 0 0 #fbdbdb;
-      -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
 
 @media (max-width: 990px) {
@@ -1830,27 +1809,16 @@ figure:hover + span {
   max-width: 200px; }
 
 .about-container {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  justify-content: center;
   padding: 0px 10px 40px;
   font-size: 18px; }
   .about-container div {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex; }
 
 .about-text {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column; }
+  flex-direction: column; }
   .about-text p {
     vertical-align: middle;
     margin: auto 0;
@@ -1902,10 +1870,8 @@ figure:hover + span {
   margin: 2rem;
   color: #000;
   text-align: center;
-  background: 0 100% no-repeat -webkit-linear-gradient(top, #fbdb56 50%, #fbdb56 50%);
   background: 0 100% no-repeat linear-gradient(180deg, #fbdb56 50%, #fbdb56 50%);
   background-size: 0 40%;
-  -webkit-transition: background-size 0.25s ease-in;
   transition: background-size 0.25s ease-in; }
   .navbar-footer > li > a:hover {
     background-size: 100% 40%;
@@ -2181,10 +2147,8 @@ form select {
   color: #000;
   margin-top: 7rem;
   text-align: center;
-  background: 0 100% no-repeat -webkit-linear-gradient(top, #fbdb56 50%, #fbdb56 50%);
   background: 0 100% no-repeat linear-gradient(180deg, #fbdb56 50%, #fbdb56 50%);
   background-size: 0 40%;
-  -webkit-transition: background-size 0.25s ease-in;
   transition: background-size 0.25s ease-in; }
   .underline-magical:hover {
     background-size: 100% 40%;
@@ -2214,3 +2178,47 @@ form select {
   margin: 3rem 8rem;
   font-size: 17px;
   text-align: justify; }
+
+.mood-photo1 {
+  width: 85%;
+  float: right; }
+
+.mood1 {
+  width: 85%;
+  margin: 3rem auto;
+  display: block; }
+
+.mood2 {
+  width: 100%;
+  margin-left: 20px;
+  margin-top: 3rem;
+  background-color: #fbdbdb;
+  height: 200px; }
+
+.mood3 {
+  width: 55%;
+  margin-top: 3rem;
+  float: right; }
+
+.mood4 {
+  width: 100%;
+  margin: 20px;
+  background-color: #e2e4e1;
+  height: 50px; }
+
+.mood5 {
+  width: 100%;
+  margin: 20px;
+  background-color: #bde7de;
+  height: 50px; }
+
+.mood6 {
+  width: 100%;
+  margin: 20px;
+  background-color: #bfcad9;
+  height: 50px; }
+
+.fonts-mood {
+  width: 55%;
+  position: absolute;
+  bottom: 160px; }
