@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Collage Art
-permalink: /collage/
+title: Quilts
+permalink: /quilts/
 ---
 <div class="row">
 

@@ -15,7 +15,10 @@ form
 	margin-left: 13%
 	input, textarea
 		width: 100%
-		border: 1px solid $form-border-color
+		border: 1px solid $green
+		border-radius: 0
+		font-size: 13px
+		letter-spacing: 5px
 	&:focus
 		@include placeholder
 		color: transparent
@@ -26,22 +29,15 @@ form
 		letter-spacing: 5px
 		padding: 1rem
 		border: 1px solid $pink
-		border-radius: 5px
 		color: black
+		text-transform: none
 		&:hover
 			background: #fff
 			color: $green
 			border: 1px solid $green
 
-.contact
-	font-size: 20px
-	margin-bottom: 20px
-	margin-left: 13%
-	margin-top: 20px
-	a
-		color: black
 
 .form-block
 	display: block
-	margin: 0 auto
-	width: 50%
+	margin: 2rem auto
+	width: 100%

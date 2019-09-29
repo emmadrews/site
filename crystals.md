@@ -1,7 +1,7 @@
 ---
-layout: project3
+layout: project
 title: Crystal Mood Board
-permalink: /crystal-mood-board/
+permalink: /crystals/
 ---
 
 <div class="row">
