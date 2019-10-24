@@ -3,25 +3,17 @@
 
 {% include head.html %}
 
-	<body>
-		{% include header.html %}
-		<div class="container-fluid">
-			<div class="row">
-				<div class="col-sm-12">
+  <body>
+    {% include header-sm.html %}
+    <div class="container-fluid">
 
-					{% include navigation.html %}
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-10 col-lg-offset-1">
-					{{ content }}
-				</div>
-
-			<!-- Sidebar Content // Hidden on mobile -->
+      <div class="row">
+				{{ content }}
 			</div>
 
-			</div>
-			{% include bottom-navigation.html %}
-			{% include footer.html %}
+    <div class="row whitespace"></div>
+
+
+    {% include footer.html %}
   </body>
 </html>

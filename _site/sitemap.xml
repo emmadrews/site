@@ -19,6 +19,9 @@
 <loc>http://localhost:4000/play/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/pre-listing/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/project1/</loc>
 </url>
 <url>
